@@ -1,0 +1,2 @@
+For frontend - You have to run only npm install for react dependancy download in you system.
+For backend - You have to do maven update.
