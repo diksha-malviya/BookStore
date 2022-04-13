@@ -1,0 +1,17 @@
+mysql> use project
+Database changed
+mysql> show tables;
++--------------------+
+| Tables_in_project  |
++--------------------+
+| book_table         |
+| cart_items         |
+| category           |
+| hibernate_sequence |
+| order_details      |
+| order_details_cart |
+| roles              |
+| user_roles         |
+| users              |
++--------------------+
+9 rows in set (0.84 sec)
