@@ -13,6 +13,6 @@ We will deliver the product at customer's door steps.
 # Feature
 User Authentication and Registration.
 MySQL Database with secured passwords (Storing user password in encrypted format).
-# Role-based authentication and authorization(User & Admin can access resources as per role ).
-# JSON WEB TOKEN (JWT) Spring Security is used for securing web application .
+Role-based authentication and authorization(User & Admin can access resources as per role ).
+JSON WEB TOKEN (JWT) Spring Security is used for securing web application .
 Admin is responsible for managing Product and category.(CRUD Operation)
